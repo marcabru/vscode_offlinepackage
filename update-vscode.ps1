@@ -1,0 +1,1 @@
+.\vscode\vscode-install.exe /VERYSILENT /SUPPRESSMSGBOXES /LOG=".\vscode-install.log" /NORESTART /CLOSEAPPLICATIONS
